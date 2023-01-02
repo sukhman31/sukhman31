@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sukhman31
 - 👀 I’m interested in ML/DL, NLP and Frontend development
-- 🌱 I’m currently learning React, Three JS, Pytorch
+- 🌱 I’m currently learning React, Three JS, Pytorch and Flask
 - 💞️ I’m looking to collaborate on Deep Learning projects
 - 📫 How to reach me ssingh8_be20@thapar.edu
 
