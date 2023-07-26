@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sukhman31
 - 👀 I’m interested in ML/AI and API development
-- 🌱 I’m currently learning React, FastAPI, Langchain
-- 💞️ I’m looking to collaborate on AI projects
+- 🌱 Current stack - NextJS, FastAPI, Supabase
+- 📗 Currently learning Langchain, Pytorch, Full-stack dev
 - 📫 How to reach me ssingh8_be20@thapar.edu
 
 <!---
